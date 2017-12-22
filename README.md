@@ -1,16 +1,17 @@
 # DevBootcamp Final Project
-
-**Mansion Express**
 ===============
+### Project:
 
-### Team names:
+Mansion Express
+
+### Description:
+
+- MansionExpress allows travelers with similar interests from around the world to find eachother and pool their resources to rent vacation homes that they wouldn't normally be able to afford.
+
+### Team Members:
 
 - Derek Siker
 - Hilary Barr
 - Dylan Richards
 - Antonio Perez
 
-
-### Description:
-
-- MansionExpress finds people with similar interests from all over the world to go on a vacation together and share a mansion they wouldn't be able to afford by themselves.
